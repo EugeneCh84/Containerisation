@@ -36,6 +36,6 @@ sudo unshare -u bash
 ![Screenshot from 2023-06-26 13-20-09.png](Screenshots%2FScreenshot%20from%202023-06-26%2013-20-09.png)
 
 Выполнив команду $hostname test в изолированной среде мы изменим имя хоста, при этом в базовой системе имя не изменится. 
-![Screenshot from 2023-06-26 13-22-10.png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-06-26%2013-22-10.png)
+![Screenshot from 2023-06-26 13-22-10.png](Screenshots%2FScreenshot%20from%202023-06-26%2013-22-10.png)
 
 Этими действиями мы показали, что научились запускать процессы в разных namespace с возможностью опционально изолировать нужные нам направления.
